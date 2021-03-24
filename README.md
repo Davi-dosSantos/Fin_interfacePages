@@ -1,15 +1,18 @@
 # :bulb: About the project
-Project worked during nlw, an NPS API ( Net promoter score)
+Implementation of my API-Fin project on a website
+in initial release
+this project is about the simple functions of banks services 
 # :hammer_and_wrench: Techs
 ## Java Script
-
-## :link: Endpoints
-
+## CSS
+## HTML
 # :bust_in_silhouette: Author
 
 <p>Davi dos Santos Costa</p>
 
-## Requisitos
+
+## OBS :
+# Requirements
 
 -[x] Deve ser possivel criar uma conta
 -[x] Deve ser possivel buscar o extrato do cliente
@@ -21,7 +24,7 @@ Project worked during nlw, an NPS API ( Net promoter score)
 -[x] Deve ser possivel deletar uma conta
 -[x] Deve ser possivel retornar o balance
 
-## Regra de negocio
+# Business Rules
 
 -[x] Não deve ser possivel cadastrar uma conta com CPF ja existente
 -[x] Não deve ser possivel fazer deposito em uma conta não existente
